@@ -34,7 +34,7 @@ Given a **string** `s`, reverse only all the **vowels** in the string and return
 
 ##### Explanation:
 <pre>
-The vowels in `s` are `['I', 'e', 'e', 'A']`. On reversing the vowels , `s` becomes "AceCreIm".
+The vowels in s are ['I', 'e', 'e', 'A']. On reversing the vowels , s becomes "AceCreIm".
 </pre>
 
 
