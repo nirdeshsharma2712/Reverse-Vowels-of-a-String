@@ -1,4 +1,4 @@
-# 📊 LeetCode Problem: 345. Reverse Vowels of a String
+# 📊 LeetCode Problem: Reverse Vowels of a String
 
 
 ## 🧩 Problem Statement
